@@ -10,7 +10,7 @@ comments:
       options:
         format: "iso8601"
   moderation: true
-  name: "www.datascienceblog.net"
+  name: "liberachat.ml"
   notifications:
     enabled: false
   path: "data/comments"
@@ -19,7 +19,7 @@ comments:
     body: "frontmatterContent"
     email: "md5" # encrypt email addresses
   reCaptcha:
-    enabled: true
+    enabled: false
     siteKey: "6LdZJ8MUAAAAAK5m-4z53KjV4rWTk8kY4FXtHwV4"
     secret: "D3kdrm7o9shsl4ZemXYKwCiQz3pvsTP/VcxiKklVPgLzIXQjrTSdxQuXaP6IPOZ0n9Ooe4osJ2xgduO7smEgXD8zcICJjvW9fRdSUdxhUdn7bwlGygA/LYqZqal9snO1rPlPIdmLdnFO19QD2Pz7UoUwcKsbwR5ZwFzmZFSwGUTaqkwlzdZe7saQ5/RM+SmhquOD+wylZSiPJW66yYGavMPmi4abn6sDfTnC7fgXlu75TtvMEEYNd2EvpjxkvzHxAzrb7u3IxqKYRkp5p0fN4rwV6tUzVmvdkDpOt4+QsmPQDFHWPoZTztuXB6WSAp9QLTyokwW7a4ZHaB4chPz7ZA=="
 
@@ -36,7 +36,7 @@ poll:
       options:
         format: "iso8601"
   moderation: false
-  name: "www.datascienceblog.net"
+  name: "liberachat.ml"
   notifications:
     enabled: false
   path: "data/polls"
@@ -56,7 +56,7 @@ polls:
       options:
         format: "iso8601"
   moderation: false
-  name: "www.datascienceblog.net"
+  name: "liberachat.ml"
   notifications:
     enabled: false
   path: "data/polls"
