@@ -38,8 +38,8 @@ rssLimit = 20 # max nbr of entries shown in rss feed
   customJS = ["https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js", "https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.3.1/underscore-min.js", "js/highlight.pack.js", "js/polls.js", "js/scripts.js"]
 
 [Params.staticman]
-  comments_api = "https://api.staticman.ml/v3/entry/KiwiChat/data-blog/master/comments" # was disabled due to spam
-  polls_api = "https://api.staticman.ml/v3/entry/KiwiChat/data-blog/master/polls"
+  comments_api = "https://api.staticman.ml/v3/entry/github/KiwiChat/data-blog/master/comments" # was disabled due to spam
+  polls_api = "https://api.staticman.ml/v3/entry/github/KiwiChat/data-blog/master/polls"
   # recaptcha v2
   #sitekey_V2 = "6LdZJ8MUAAAAAK5m-4z53KjV4rWTk8kY4FXtHwV4"
   #secret_V2 = "D3kdrm7o9shsl4ZemXYKwCiQz3pvsTP/VcxiKklVPgLzIXQjrTSdxQuXaP6IPOZ0n9Ooe4osJ2xgduO7smEgXD8zcICJjvW9fRdSUdxhUdn7bwlGygA/LYqZqal9snO1rPlPIdmLdnFO19QD2Pz7UoUwcKsbwR5ZwFzmZFSwGUTaqkwlzdZe7saQ5/RM+SmhquOD+wylZSiPJW66yYGavMPmi4abn6sDfTnC7fgXlu75TtvMEEYNd2EvpjxkvzHxAzrb7u3IxqKYRkp5p0fN4rwV6tUzVmvdkDpOt4+QsmPQDFHWPoZTztuXB6WSAp9QLTyokwW7a4ZHaB4chPz7ZA=="
