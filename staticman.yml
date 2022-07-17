@@ -1,5 +1,6 @@
 comments:
   allowedFields: ["path", "name", "email", "message"]
+  allowedOrigins: ["liberachat.ml"]
   branch: "master"
   commitMessage: "You have a new comment on your website."
   filename: "{fields.date}_{@id}"
@@ -35,7 +36,7 @@ poll:
       type: date
       options:
         format: "iso8601"
-  moderation: false
+  moderation: true
   name: "liberachat.ml"
   notifications:
     enabled: false
